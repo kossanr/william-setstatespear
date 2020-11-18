@@ -1,8 +1,8 @@
-
+//exports an array of objects, each object is a poem with an id, title, and content
 export default [
   {
-    id: 'swallowed-grandma',
-    title: 'Computer Swallowed Grandma',
+    id: "swallowed-grandma",
+    title: "Computer Swallowed Grandma",
     content: [
       `The computer swallowed grandma.`,
       `Yes, honestly its true!`,
@@ -28,11 +28,11 @@ export default [
       `My Grandma you should see,`,
       `Please ‘Copy, ’ ‘Scan’ and ‘Paste’ her`,
       `In an email back to me.`,
-    ]
+    ],
   },
   {
-    id: 'ducks',
-    title: '3 White Ducks',
+    id: "ducks",
+    title: "3 White Ducks",
     content: [
       `Three ducks pecked around`,
       `In a garden one warm day`,
@@ -70,8 +70,8 @@ export default [
     ],
   },
   {
-    id: 'my-computer',
-    title: 'My Computer',
+    id: "my-computer",
+    title: "My Computer",
     content: [
       `My computer has a language`,
       `That is foreign to me`,
@@ -92,11 +92,11 @@ export default [
       `With a mouse to translate`,
       `The tasks that I want it to do`,
       `While it points out my mistakes!`,
-    ]
+    ],
   },
   {
-    id: 'clowns',
-    title: 'Class Clown',
+    id: "clowns",
+    title: "Class Clown",
     content: [
       `hello reader, i'm trying too hard`,
       `as if you could grade me`,
@@ -110,24 +110,25 @@ export default [
       `but i guess this pathetic afterthought will do`,
       `similar to the class toad`,
       `sprawling my consciousness out`,
-      `a beating heart exposed`
+      `a beating heart exposed`,
     ],
   },
   {
-    id: 'binary',
-    title: 'There are 10 types of people in this world that can understand this poem',
+    id: "binary",
+    title:
+      "There are 10 types of people in this world that can understand this poem",
     content: [
-      '101110101101‬',
-      '‭1011111011101111‬',
-      '‭1111111011101101‬',
-      '‭1010‬',
-      '‭10111­0101101‬',
-      '‭1111101011001110‬'
+      "101110101101‬",
+      "‭1011111011101111‬",
+      "‭1111111011101101‬",
+      "‭1010‬",
+      "‭10111­0101101‬",
+      "‭1111101011001110‬",
     ],
   },
   {
-    id: 'conditions',
-    title: 'Conditions Of Programming',
+    id: "conditions",
+    title: "Conditions Of Programming",
     content: [
       `If you want to wear those shoes,`,
       `Put them on.`,
@@ -160,8 +161,8 @@ export default [
     ],
   },
   {
-    id: 'javascript',
-    title: 'JavaScript',
+    id: "javascript",
+    title: "JavaScript",
     content: [
       `when we first met we were really broke`,
       `you got back into code & it was no joke`,
@@ -182,12 +183,12 @@ export default [
       `Gang of Four, Crockford & Brendan Eich`,
       `Put us all together & it’s a motley crew`,
       `what we have in common is what we all knew…`,
-      `code can change your life`
+      `code can change your life`,
     ],
   },
   {
-    id: 'exercise',
-    title: 'Exercise',
+    id: "exercise",
+    title: "Exercise",
     content: [
       `When I think about exercise,`,
       `I'm inspired to join a gym class,`,
@@ -218,11 +219,11 @@ export default [
       `So long as it doesn't include me,`,
       `I'd rather relax with my feet up,`,
       `While watching sports on TV.`,
-    ]
+    ],
   },
   {
-    id: 'bake',
-    title: 'I Like To Bake',
+    id: "bake",
+    title: "I Like To Bake",
     content: [
       `Lord, you know I like to bake,`,
       `That velvety rich chocolate cake,`,
@@ -253,11 +254,11 @@ export default [
       `It would only be a simple task,`,
       `You who changed water into wine,`,
       `Dissolve those calories when I dine!`,
-    ]
+    ],
   },
   {
-    id: 'low-tech',
-    title: 'Low-Tech Computing',
+    id: "low-tech",
+    title: "Low-Tech Computing",
     content: [
       `My new computer's quite the gift`,
       `And one I truly covet -`,
@@ -273,6 +274,6 @@ export default [
       `I'ii savor dusk till dawn`,
       `Now all I need to find is`,
       `The switch that turns it on!`,
-    ]
-  }
-]
+    ],
+  },
+];
